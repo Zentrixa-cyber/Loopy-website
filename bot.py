@@ -42,10 +42,10 @@ log = logging.getLogger("loopy")
 # =============================================================================
 #  SOZLAMALAR — faqat shu qismni tahrirlang (qo'shtirnoqlarni o'chirmang)
 # =============================================================================
-BOT_TOKEN = "BU_YERGA_TOKENNI_YOZING"       # @BotFather bergan token
-ADMIN_IDS = [123456789]                     # buyurtmalar keladigan Telegram ID(lar): [111, 222]
+BOT_TOKEN = "8783837012:AAHmcw_rVTrmYF4XvLz5FrXYmByQkYVfg14"       # @BotFather bergan token
+ADMIN_IDS = [8702721904]                     # buyurtmalar keladigan Telegram ID(lar): [111, 222]
 CHANNEL_USERNAME = "loopy_uz"               # kanal username (@ belgisiz)
-CONTACT_TEXT = "Telefon: +998 00 000 00 00\nTelegram: @username"   # "Aloqa" tugmasi matni
+CONTACT_TEXT = "📞 Biz bilan bog'lanish uchun: @whoami_cs"   # "Aloqa" tugmasi matni
 DB_PATH = "bot.db"                          # buyurtmalar bazasi fayli
 PING_PORT = "8080"                          # UptimeRobot uchun ping porti (hosting PORT bersa, o'sha ishlatiladi)
 # =============================================================================
